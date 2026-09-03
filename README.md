@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Electronics Lab Reports & Web Archive
 
-# Run and deploy your AI Studio app
+Web portofolio dan arsip digital untuk menyimpan, mengelola, serta mendokumentasikan hasil praktikum dan laporan laboratorium elektronika. Didesain secara minimalis, modern, dan responsif untuk memudahkan navigasi serta pencarian dokumen praktikum.
 
-This contains everything you need to run your app locally.
+## ⚡ Fitur Utama
 
-View your app in AI Studio: https://ai.studio/apps/73e6b87c-a0ee-4359-b793-75f1aaa1cbe7
+* **Arsip PDF:** Akses langsung dan pratinjau dokumen laporan praktikum (PDF).
+* **Search & Filter:** Pencarian cepat berdasarkan judul laporan, modul, atau topik praktikum.
+* **Kategorisasi Badge:** Pengelompokan visual berdasarkan mata kuliah (Elektronika Dasar, Sistem Digital, dll).
+* **Modal Input Data:** Antarmuka ringkas untuk memasukkan metadata laporan baru secara cepat.
+* **Responsive Layout:** Tampilan rapi saat diakses dari desktop maupun smartphone.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
 
+* **Frontend Framework:** React + Vite
+* **Styling:** Tailwind CSS
+* **Language:** TypeScript
+* **Hosting:** GitHub Pages
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Cara Menjalankan Secara Lokal
+
+Jika ingin menjalankan atau mengembangkan project ini di komputer lokal:
+
+1. **Clone repository ini**
+   ```bash
+   git clone [https://github.com/username/nama-repo.git](https://github.com/username/nama-repo.git)
+   cd nama-repo
