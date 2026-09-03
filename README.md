@@ -1,5 +1,7 @@
 # Electronics Lab Reports & Web Archive
 
+![Work in Progress](./assets/wip.png)
+
 Web portofolio dan arsip digital untuk menyimpan, mengelola, serta mendokumentasikan hasil praktikum dan laporan laboratorium elektronika. Didesain secara minimalis, modern, dan responsif untuk memudahkan navigasi serta pencarian dokumen praktikum.
 
 ## ⚡ Fitur Utama
