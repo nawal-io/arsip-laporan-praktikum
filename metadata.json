@@ -1,0 +1,6 @@
+{
+  "name": "Arsip & Portofolio Laporan Praktikum",
+  "description": "Website arsip dan portofolio laporan praktikum laboratorium teknik dan elektronika yang clean, responsif, dan siap di-host di GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
