@@ -833,8 +833,7 @@
       pdfFallbackLink.href = report.pdfUrl;
 
       // Use Google Docs viewer wrapper for reliable web PDF preview across browsers
-      const embedUrl = `https://docs.google.com/viewer?url=${encodeURIComponent(report.pdfUrl)}&embedded=true`;
-      pdfViewerIframe.src = embedUrl;
+      pdfViewerIframe.src = report.pdfUrl;
 
       pdfModal.classList.remove('hidden');
     };
